@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Adeline Guizar
-- 📚 I am a computer engineering student at San Diego State University. 
-- 👀 I’m interested in working on ground control systems.
+- 👋 Hi, I’m Adeline
+- 📚 I am a grad student at the University of San Diego.
+<!-- - 👀 I’m interested in working on ground control systems.-->
 
 
 <!---
